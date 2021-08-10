@@ -9,6 +9,7 @@ public class Spring007MybatisApplication {
     public static void main(String[] args) {
         System.out.println("second commit~");
         System.out.println("third commit~");
+        System.out.println("second commit' hot-fix branch");
         SpringApplication.run(Spring007MybatisApplication.class, args);
     }
 
