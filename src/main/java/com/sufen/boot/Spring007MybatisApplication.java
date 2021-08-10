@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring007MybatisApplication {
 
     public static void main(String[] args) {
+        System.out.println("second commit~");
         SpringApplication.run(Spring007MybatisApplication.class, args);
     }
 
